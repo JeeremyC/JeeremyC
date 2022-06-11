@@ -6,7 +6,7 @@ Here you can see my learning process in each repository
 where I was learning and practicing by creating projects.
 
 I've completed Data science courses on @Platzi, @tzuzulcode Data Science Bootcamp, and @Diplomadosonline Business Intelligence course
-
+https://bio.link/jeremycastillo
 
 
 
