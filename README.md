@@ -1,4 +1,14 @@
-### Hi there 👋
+## Welcome to my profile👋
+### I'm currently open to work
+
+I'm passionate about Data Science and Cloud computing
+Here you can see my learning process in each repository
+where I was learning and practicing by creating projects.
+
+I've completed Data science courses on @Platzi, @tzuzulcode Data Science Bootcamp, and @Diplomadosonline Business Intelligence course
+
+
+
 
 <!--
 **JeeremyC/JeeremyC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
